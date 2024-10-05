@@ -38,4 +38,4 @@
 4. Enjoy racing with friends!
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SERAP-KEREM/City-Car-Racing-3D/blob/main/MIT%20License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SERAP-KEREM/SERAP-KEREM/blob/main/MIT%20License.txt) file for details.
