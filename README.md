@@ -38,3 +38,4 @@
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/SERAP-KEREM/SERAP-KEREM/blob/main/MIT%20License.txt) file for details.
+By readme dosyasını düzenle ingilizcebolarak yaz ve düzenle
